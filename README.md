@@ -3,7 +3,6 @@
 A small CRUD API for managing a to-do list, built with **FastAPI** and **Python**.
 Tasks are stored **in memory** (no database yet) — restarting the server resets the data back to the 3 example tasks.
 
-Built as part of Week 2 — Assignment 1 ("Build your first CRUD API").
 
 ## What this is
 
